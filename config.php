@@ -1,9 +1,9 @@
 <?php
 
-$host = "sql102.infinityfree.com";
-$username = "if0_41943480";
-$password = "4PzhLJvRew";
-$database = "if0_41943480_dbkang";
+$host = "localhost";
+$username = "root";
+$password = "";
+$database = "hotel_reservation";
 
 $conn = mysqli_connect($host, $username, $password, $database);
 
