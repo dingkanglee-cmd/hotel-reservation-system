@@ -12,7 +12,7 @@ $result = mysqli_query($conn,$sql);
 
 <head>
 
-    <title>Hotel Rooms</title>
+    <title>Hotel Rooms System</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
